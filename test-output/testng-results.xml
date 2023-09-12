@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-12T09:41:44 IST" name="Suite" finished-at="2023-09-12T09:43:11 IST" duration-ms="87264">
+    <groups>
+    </groups>
+    <test started-at="2023-09-12T09:41:44 IST" name="Test" finished-at="2023-09-12T09:43:11 IST" duration-ms="87264">
+      <class name="com.framework.testCases.RunnerClass">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.framework.testCases.RunnerClass@74d1dc36]" started-at="2023-09-12T09:41:44 IST" name="beforeMethod" finished-at="2023-09-12T09:41:47 IST" duration-ms="3042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="RunnerTest()[pri:0, instance:com.framework.testCases.RunnerClass@74d1dc36]" started-at="2023-09-12T09:41:47 IST" name="RunnerTest" finished-at="2023-09-12T09:43:11 IST" duration-ms="83771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunnerTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.framework.testCases.RunnerClass@74d1dc36]" started-at="2023-09-12T09:43:11 IST" name="afterMethod" finished-at="2023-09-12T09:43:11 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.framework.testCases.RunnerClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
